@@ -2,6 +2,9 @@
 # files&folders
 z*
 
+#files
+*.zip
+
 # Node artifact files
 node_modules/
 dist/
