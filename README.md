@@ -7,3 +7,11 @@ Hallo zusammen!
 
 
 <!-- https://devstack.vwgroup.com/bitbucket/projects/FAK73PROG/repos/python/browse -->
+
+## Tipps
+* Falls `git pull` nicht tut, versucht
+    ```
+    git reset --hard HEAD
+    ```
+    __Achtung__: Alle Änderungen seit dem letzten Commit werden gelöscht, da dieser Befehl zum letzten Commit zurückkehrt.
+    
