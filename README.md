@@ -1,4 +1,4 @@
-# Davids Repo für Python, Gen5
+# Davids Python Repo
 
 Hallo zusammen!
 
